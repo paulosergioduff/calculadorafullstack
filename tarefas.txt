@@ -1,0 +1,3 @@
+Renan: instalar o git for windows
+Renan: Pesquisar sobre variáveis javascript, e exibir mensagens destas variáveis na tela.
+Renan: Somar duas variáveis em javascript e exibir na tela
