@@ -1,0 +1,11 @@
+Como usar?
+
+1) Copie somente a parte antes de duas barras no seu terminal git
+Ex:  git add *  // Não copie depois das duas barras
+
+2) Use os comandos:
+
+git add * //adciona todos os arquivos novos alterados
+git status // Para verificar os status dos arquivos atuais
+git commit -m "Sua mensagem de commit"  // Grava as alterações no seu repositório local
+git push // Envia as modificações para o repositório de clonado
